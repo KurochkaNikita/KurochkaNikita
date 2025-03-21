@@ -2,16 +2,15 @@
 <h3 align="center">Senior Software Developer | React | React-Native | Flutter | Node.js</h3>
 
 <div>
-    <p align="center">
+    <p>
         <img style="display: block; margin-left: auto; margin-right: auto"
-            src="https://github-profile-trophy.vercel.app/?username=kurochkanikita&rank=SSS,SS,S,AAA,AA,A,UNKNOWN,SECRET"
-            alt="kurochkanikita" 
-            align="center"
+            src="https://github-profile-trophy.vercel.app/?username=kurochkanikita&theme=flat"
+            alt="kurochkanikita"
         />  
     </p>
 </div>
 
-### My stack and tools :
+### My stack and tools:
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
@@ -76,7 +75,7 @@
     </td>
     <td align="center" width="88">
         <img src="./images/17-intell.svg" alt="Visual Studio Code" width="44" height="44"/>
-        <br>IntelliJ IDEA
+        <br>IntelliJ
     </td>
     <td align="center" width="88">
         <img src="./images/18-figma.svg" alt="Figma" width="44" height="44"/>
@@ -86,7 +85,7 @@
 </table>
 </div>
 
-### GitHub Stats :
+### GitHub Stats:
 - **Version Control:** GitHub (personal), GitLab/Bitbucket (work)
 
 
