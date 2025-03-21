@@ -92,18 +92,18 @@
 
 <table align="center">
   <tr>
-      <td>
+      <td >
         <a href="https://github.com/KurochkaNikita/github-readme-stats">
             <img 
                 align="center" 
-                src="https://github-readme-stats.vercel.app/api?username=KurochkaNikita&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" 
+                src="https://github-readme-stats.vercel.app/api?username=KurochkaNikita&show_icons=true&rank_icon=percentile&include_all_commits=true&theme=buefy&hide_border=true&hide=contribs&show=reviews" 
                 alt="Nikita Kurochka github stats" 
             />
         </a>
       </td>
       <td>
         <a ref="https://github.com/KurochkaNikita/github-readme-stats">
-            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KurochkaNikita&layout=compact&theme=buefy" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KurochkaNikita&layout=compact&theme=buefy&langs_count=8&hide_border=true" />
         </a>
       </td>
   </tr>
