@@ -5,7 +5,7 @@
     <p align="center">
         <a href="https://github-profile-trophy.vercel.app/?username=kurochkanikita" style="display: flex; justify-content: center;" align="center" >
             <img style="display: block; margin-left: auto; margin-right: auto"
-                src="https://github-profile-trophy.vercel.app/?username=kurochkanikita&theme=flat"
+                src="https://github-profile-trophy.vercel.app/?username=kurochkanikita&theme=flat&row=1"
                 alt="kurochkanikita"
             />  
         </a>
