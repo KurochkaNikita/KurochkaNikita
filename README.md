@@ -7,7 +7,7 @@
     alt="kurochkanikita" 
     align="center"
   /> 
-</div>
+</p>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kurochkanikita&show_icons=true&locale=en&layout=compact" alt="kurochkanikita" /></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=kurochkanikita&" alt="kurochkanikita" /></p>
