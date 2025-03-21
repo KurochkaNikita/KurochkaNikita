@@ -4,7 +4,7 @@
 <div>
     <p>
         <img style="display: block; margin-left: auto; margin-right: auto"
-            src="https://github-profile-trophy.vercel.app/?username=kurochkanikita&theme=flat&rank=SECRET,SSS,SS,S,AAA,AA,A,B"
+            src="https://github-profile-trophy.vercel.app/?username=kurochkanikita&theme=flat&rank=SECRET,SSS,SS,S,AAA,AA,A,B&column=-1"
             alt="kurochkanikita"
         />  
     </p>
