@@ -94,7 +94,7 @@
 <table align="center">
   <tr>
       <td >
-        <a href="https://github.com/KurochkaNikita/github-readme-stats">
+        <a href="https://github-readme-stats.vercel.app/api?username=KurochkaNikita">
             <img 
                 align="center" 
                 src="https://github-readme-stats.vercel.app/api?username=KurochkaNikita&show_icons=true&rank_icon=percentile&include_all_commits=true&theme=buefy&hide_border=true&hide=contribs&show=reviews" 
@@ -103,14 +103,14 @@
         </a>
       </td>
       <td>
-        <a ref="https://github.com/KurochkaNikita/github-readme-stats">
+        <a ref="https://github-readme-stats.vercel.app/api/top-langs/?username=KurochkaNikit">
             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KurochkaNikita&layout=compact&theme=buefy&langs_count=8&hide_border=true" />
         </a>
       </td>
   </tr>
   <tr>
       <td colspan=2 align="center">
-        <a href="https://git.io/streak-stats"> 
+        <a href="http://github-readme-streak-stats.herokuapp.com?user=KurochkaNikita"> 
             <img 
                 src="http://github-readme-streak-stats.herokuapp.com?user=KurochkaNikita&hide_border=true&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" 
                 alt="Nikita Kurochka GitHub Readme Streak Stats" 
