@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nick</h1>
 <h3 align="center">Senior Software Developer | React | React-Native | Flutter | Node.js</h3>
 
-<div>
+<div style="display: flex; align-items: flex-start; align: center">
     <p>
         <img style="display: block; margin-left: auto; margin-right: auto"
             src="https://github-profile-trophy.vercel.app/?username=kurochkanikita&theme=flat&rank=SECRET,SSS,SS,S,AAA,AA,A,B&column=-1"
