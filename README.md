@@ -2,7 +2,7 @@
 <h3 align="center">Senior Software Developer | React | React-Native | Flutter | Node.js</h3>
 
 <div>
-    <p>
+    <p align="center">
         <a href="https://github-profile-trophy.vercel.app" style="display: flex; justify-content: center;" align="center" >
             <img style="display: block; margin-left: auto; margin-right: auto"
                 src="https://github-profile-trophy.vercel.app/?username=kurochkanikita&theme=flat&rank=SECRET,SSS,SS,S,AAA,AA,A,B&column=-1"
