@@ -91,9 +91,9 @@
 - **Version Control:** GitHub (personal), GitLab/Bitbucket (work)
 
 
-<table align="center">
+<table align="center" style="border-collapse: collapse; border: none;">
   <tr>
-      <td >
+      <td style="border: none;">
         <a href="https://github-readme-stats.vercel.app/api?username=KurochkaNikita">
             <img 
                 align="center" 
@@ -102,14 +102,14 @@
             />
         </a>
       </td>
-      <td>
+      <td style="border: none;">
         <a ref="https://github-readme-stats.vercel.app/api/top-langs/?username=KurochkaNikit">
             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KurochkaNikita&layout=compact&theme=buefy&langs_count=8&hide_border=true" />
         </a>
       </td>
   </tr>
   <tr>
-      <td colspan=2 align="center">
+      <td colspan=2 align="center" style="border: none;">
         <a href="http://github-readme-streak-stats.herokuapp.com?user=KurochkaNikita"> 
             <img 
                 src="http://github-readme-streak-stats.herokuapp.com?user=KurochkaNikita&hide_border=true&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" 
