@@ -90,7 +90,7 @@
 ### GitHub Stats:
 - **Version Control:** GitHub (personal), GitLab/Bitbucket (work)
 
-<table>
+<table border="0">
   <tr>
       <td>
         <a href="https://github-readme-stats.vercel.app/api?username=KurochkaNikita">
