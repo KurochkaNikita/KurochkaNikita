@@ -38,11 +38,11 @@
 <table>
     <tr align="center">
         <td align="center"  width="90"  height="90">
-            <img src="images/HTML5.svg" alt="HTML5" width="44" height="44"/>
+            <img src="images/html.svg" alt="HTML5" width="44" height="44"/>
             <br>HTML5
         </td>
         <td align="center"  width="90"  height="90">
-            <img src="images/CSS3.svg" alt="HTML5" width="44" height="44"/>
+            <img src="images/css.svg" alt="HTML5" width="44" height="44"/>
             <br>CCS3
         </td>
         <td align="center"  width="90"  height="90">
