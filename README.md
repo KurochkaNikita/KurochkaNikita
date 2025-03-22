@@ -90,23 +90,23 @@
 ### GitHub Stats:
 - **Version Control:** GitHub (personal), GitLab/Bitbucket (work)
 
-<table >
-  <tr style="border: none;">
-      <td style="border: none;">
+<table>
+  <tr>
+      <td>
         <a href="https://github-readme-stats.vercel.app/api?username=KurochkaNikita">
             <img
                 src="https://github-readme-stats.vercel.app/api?username=KurochkaNikita&show_icons=true&rank_icon=percentile&include_all_commits=true&theme=buefy&hide_border=true&hide=contribs&show=reviews" 
                 alt="Nikita Kurochka github stats" 
-                style="height: 200px"
+                style="height: 200px; border: none;"
             />
         </a>
       </td>
-      <td style="border: none;">
+      <td>
         <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=KurochkaNikit">
             <img
                 src="https://github-readme-stats.vercel.app/api/top-langs/?username=KurochkaNikita&layout=compact&theme=buefy&langs_count=8&hide_border=true" 
                 alt="Nikita Kurochka github top langs" 
-                style="height: 200px"
+                style="height: 200px; border: none;"
             />
         </a>
       </td>
