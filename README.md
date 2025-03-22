@@ -90,7 +90,6 @@
 ### GitHub Stats:
 - **Version Control:** GitHub (personal), GitLab/Bitbucket (work)
 
-
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
       <td style="border: none;">
@@ -110,14 +109,13 @@
         </a>
       </td>
   </tr>
-  <tr style="border: none; background: transparent;">
-      <td colspan="2" style="border: none;">
-        <a href="http://github-readme-streak-stats.herokuapp.com?user=KurochkaNikita"> 
-            <img 
-                src="http://github-readme-streak-stats.herokuapp.com?user=KurochkaNikita&hide_border=true&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" 
-                alt="Nikita Kurochka GitHub Readme Streak Stats" 
-            /> 
-        </a>
-      </td>
-  </tr>
 </table>
+
+<div style="display: flex; justify-content: center;" align="center">
+    <a href="http://github-readme-streak-stats.herokuapp.com?user=KurochkaNikita" align="center"> 
+        <img 
+            src="http://github-readme-streak-stats.herokuapp.com?user=KurochkaNikita&hide_border=true&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" 
+            alt="Nikita Kurochka GitHub Readme Streak Stats" 
+        /> 
+    </a>
+</div>
