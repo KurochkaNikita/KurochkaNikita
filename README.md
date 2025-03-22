@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nick</h1>
-<h3 align="center">Senior Software Developer | React | React-Native | Flutter | Node.js</h3>
+<h2 align="center">Senior Software Developer | React | React-Native | Flutter | Node.js</h2>
 
 <div>
     <p align="center">
