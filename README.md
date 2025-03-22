@@ -90,7 +90,7 @@
 ### GitHub Stats:
 - **Version Control:** GitHub (personal), GitLab/Bitbucket (work)
 
-<table border="0">
+<table>
   <tr>
       <td>
         <a href="https://github-readme-stats.vercel.app/api?username=KurochkaNikita">
@@ -106,18 +106,20 @@
             <img
                 src="https://github-readme-stats.vercel.app/api/top-langs/?username=KurochkaNikita&layout=compact&theme=buefy&langs_count=8&hide_border=true" 
                 alt="Nikita Kurochka github top langs" 
-                style="height: 200px; border: none;"
+                style="height: 200px"
             />
         </a>
       </td>
   </tr>
+  <tr>
+      <td colspan=2 align="center">
+        <a href="http://github-readme-streak-stats.herokuapp.com?user=KurochkaNikita"> 
+            <img 
+                src="http://github-readme-streak-stats.herokuapp.com?user=KurochkaNikita&hide_border=true&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" 
+                alt="Nikita Kurochka GitHub Readme Streak Stats" 
+                style="height: 200px"
+            /> 
+        </a>
+      </td>
+  </tr>
 </table>
-
-<div style="display: flex; justify-content: center;" align="center">
-    <a href="http://github-readme-streak-stats.herokuapp.com?user=KurochkaNikita" align="center"> 
-        <img 
-            src="http://github-readme-streak-stats.herokuapp.com?user=KurochkaNikita&hide_border=true&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" 
-            alt="Nikita Kurochka GitHub Readme Streak Stats" 
-        /> 
-    </a>
-</div>
