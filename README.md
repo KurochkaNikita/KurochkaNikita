@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Nick</h1>
+<h1 align="center">
+    Hey there, I'm Nick!
+    <img src="./assets/giphy.gif" width="30px" alt="GIF">
+</h1>
+
 <h2 align="center">Senior Software Developer | React | React-Native | Flutter | Node.js</h2>
 
 <div>
@@ -124,7 +128,7 @@
     </tr>
 </table>
 
-### Additional Languages & Tools:
+### Additional Languages:
 <table>
     <tr align="center">
         <td align="center"  width="90"  height="90">
@@ -160,7 +164,7 @@
     </tr>
 </table>
 
-### Build & Infrastructure:
+### Testing & Linting:
 <table>
     <tr align="center">
         <td align="center"  width="90"  height="90">
