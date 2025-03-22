@@ -92,7 +92,7 @@
 
 
 <table align="center" style="border-collapse: collapse; border: none;">
-  <tr>
+  <tr style="border: none;">
       <td style="border: none;">
         <a href="https://github-readme-stats.vercel.app/api?username=KurochkaNikita">
             <img 
@@ -108,7 +108,7 @@
         </a>
       </td>
   </tr>
-  <tr>
+  <tr style="border: none;">
       <td colspan=2 align="center" style="border: none;">
         <a href="http://github-readme-streak-stats.herokuapp.com?user=KurochkaNikita"> 
             <img 
