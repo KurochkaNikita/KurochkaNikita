@@ -103,12 +103,16 @@
         </a>
       </td>
       <td style="border: none;">
-        <a ref="https://github-readme-stats.vercel.app/api/top-langs/?username=KurochkaNikit">
-            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KurochkaNikita&layout=compact&theme=buefy&langs_count=8&hide_border=true" />
+        <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=KurochkaNikit">
+            <img 
+                align="center" 
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=KurochkaNikita&layout=compact&theme=buefy&langs_count=8&hide_border=true" 
+                alt="Nikita Kurochka github top langs" 
+            />
         </a>
       </td>
   </tr>
-  <tr style="border: none;">
+  <tr style="border: none; background: transparent;">
       <td colspan=2 align="center" style="border: none;">
         <a href="http://github-readme-streak-stats.herokuapp.com?user=KurochkaNikita"> 
             <img 
