@@ -91,15 +91,16 @@
 - **Version Control:** GitHub (personal), GitLab/Bitbucket (work)
 
 <div style="display: flex; justify-content: center;gap: 12px;" align="center">
-  <div>
+  <p>
     <a href="https://github-readme-stats.vercel.app/api?username=KurochkaNikita">
         <img
             src="https://github-readme-stats.vercel.app/api?username=KurochkaNikita&show_icons=true&rank_icon=percentile&include_all_commits=true&theme=buefy&hide_border=true&hide=contribs&show=reviews" 
             alt="Nikita Kurochka github stats" 
+            style="height: 200px"
         />
     </a>
-  </div>
-  <div>
+  </p>
+  <p>
     <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=KurochkaNikit">
       <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=KurochkaNikita&layout=compact&theme=buefy&langs_count=8&hide_border=true" 
@@ -107,7 +108,7 @@
         style="height: 200px"
       />
     </a>
-  </div>
+  </p>
 </div>
 
 <div style="display: flex; justify-content: center;" align="center">
