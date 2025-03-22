@@ -12,80 +12,241 @@
     </p>
 </div>
 
-### My stack and tools:
-
-<div style="display: flex; align-items: center; justify-content: center;">
-<table align="center">
-  <tr>
-    <td align="center"  width="88">
-        <img src="./images/01-html5.svg" alt="HTML5" width="44" height="44"/>
-        <br>HTML5
-    </td>
-    <td align="center" width="88">
-        <img src="./images/02-css3.svg" alt="CSS3" width="44" height="44"/>
-        <br>CSS3
-    </td>
-    <td align="center" width="88">
-        <img src="./images/03-javascript.svg" alt="JS" width="44" height="44"/>
-        <br>JavaScript
-    </td>
-    <td align="center" width="88">
-        <img src="./images/04-typescript.svg" alt="TS" width="44" height="44"/>
-        <br>TypeScript
-    </td>
-    <td align="center" width="88">
-        <img src="./images/05-python.svg" alt="Python" width="44" height="44"/>
-        <br>Python
-    </td>
-    <td align="center" width="88">
-        <img src="./images/06-react.svg" alt="React" width="44" height="44"/>
-        <br>React.js
-    </td>
-    <td align="center" width="88">
-        <img src="./images/07-nextjs.svg" alt="Next.js" width="44" height="44"/>
-        <br>Next.js
-    </td>
-    <td align="center" width="88">
-        <img src="./images/08-nodejs.svg" alt="Node.js" width="44" height="44"/>
-        <br>Node.js
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="88">
-        <img src="./images/10-sass.svg" alt="Sass" width="44" height="44"/>
-        <br>Sass
-    </td>
-    <td align="center"  width="88">
-        <img src="./images/12-tailwind.svg" alt="Tailwind" width="44" height="44"/>
-        <br>Tailwind
-    </td>
-    <td align="center" width="88">
-        <img src="./images/13-redux.svg" alt="Redux" width="44" height="44"/>
-        <br>Redux
-    </td>
-      <td align="center" width="88">
-        <img src="./images/14-postman.svg" alt="Postman" width="44" height="44"/>
-        <br>Postman
-    </td>
-    <td align="center" width="88">
-        <img src="./images/15-mongodb.svg" alt="MongoDB" width="44" height="44"/>
-        <br>MongoDB
-    </td>
-    <td align="center" width="88">
-        <img src="./images/16-git.svg" alt="Git" width="44" height="44"/>
-        <br>Git
-    </td>
-    <td align="center" width="88">
-        <img src="./images/17-intell.svg" alt="Visual Studio Code" width="44" height="44"/>
-        <br>IntelliJ
-    </td>
-    <td align="center" width="88">
-        <img src="./images/18-figma.svg" alt="Figma" width="44" height="44"/>
-        <br>Figma
-    </td>
-  </tr>
+### Core Technologies:
+<table>
+    <tr align="center">
+        <td align="center"  width="90" height="90">
+            <img src="images/javascript.svg" alt="HTML5" width="44" height="44"/>
+            <br>Javascript
+        </td>
+        <td align="center"  width="90"  height="90">
+            <img src="images/typescript.svg" alt="HTML5" width="44" height="44"/>
+            <br>Typescript
+        </td>
+        <td align="center"  width="90"  height="90">
+            <img src="images/react.svg" alt="HTML5" width="44" height="44"/>
+            <br>React
+        </td>
+        <td align="center"  width="90"  height="90">
+            <img src="images/nextjs.svg" alt="HTML5" width="44" height="44"/>
+            <br>Next.js
+        </td>
+    </tr>
 </table>
-</div>
+
+### Web Technologies:
+<table>
+    <tr align="center">
+        <td align="center"  width="90"  height="90">
+            <img src="images/HTML5.svg" alt="HTML5" width="44" height="44"/>
+            <br>HTML5
+        </td>
+        <td align="center"  width="90"  height="90">
+            <img src="images/CSS3.svg" alt="HTML5" width="44" height="44"/>
+            <br>CCS3
+        </td>
+        <td align="center"  width="90"  height="90">
+            <img src="images/scss.svg" alt="HTML5" width="44" height="44"/>
+            <br>SCSS
+        </td>
+        <td align="center"  width="90"  height="90">
+            <img src="images/less.svg" alt="HTML5" width="44" height="44"/>
+            <br>LESS
+        </td>
+        <td align="center"  width="90"  height="90">
+            <img src="images/tailwind.svg" alt="HTML5" width="44" height="44"/>
+            <br>Tailwind
+        </td>
+        <td align="center"  width="90"  height="90">
+            <img src="images/mui.svg" alt="HTML5" width="44" height="44"/>
+            <br>Mui
+        </td>
+        <td align="center"  width="90" height="90">
+            <img src="images/antd.svg" alt="HTML5" width="44" height="44"/>
+            <br>Ant design
+        </td>
+        <td align="center"  width="90"  height="90">
+            <img src="images/bootstrap.svg" alt="HTML5" width="44" height="44"/>
+            <br>Bootstrap
+        </td>        
+        <td align="center"  width="90"  height="90">
+            <img src="images/jQuery.svg" alt="HTML5" width="44" height="44"/>
+            <br>jQuery
+        </td>
+    </tr>
+</table>
+
+### Mobile Technologies:
+<table>
+    <tr align="center">
+        <td align="center"  width="90"  height="90">
+            <img src="images/react.svg" alt="HTML5" width="44" height="44"/>
+            <br>RNative
+        </td>
+        <td align="center"  width="90"  height="90">
+            <img src="images/flutter.svg" alt="HTML5" width="44" height="44"/>
+            <br>Flutter
+        </td>
+    </tr>
+</table>
+
+### Backend & API:
+<table>
+    <tr align="center">
+        <td align="center"  width="90"  height="90">
+            <img src="images/nodejs.svg" alt="HTML5" width="44" height="44"/>
+            <br>Node.js
+        </td>
+        <td align="center"  width="90"  height="90">
+            <img src="images/expressjs.svg" alt="HTML5" width="44" height="44"/>
+            <br>Express.js
+        </td>
+        <td align="center"  width="90"  height="90">
+            <img src="images/nestjs.svg" alt="HTML5" width="44" height="44"/>
+            <br>Nest.js
+        </td>
+        <td align="center"  width="90"  height="90">
+            <img src="images/graphql.svg" alt="HTML5" width="44" height="44"/>
+            <br>GraphQL
+        </td>
+        <td align="center"  width="90"  height="90">
+            <img src="images/mongodb.svg" alt="HTML5" width="44" height="44"/>
+            <br>MongoDB
+        </td>
+        <td align="center"  width="90"  height="90">
+            <img src="images/firebase.svg" alt="HTML5" width="44" height="44"/>
+            <br>Firebase
+        </td>
+        <td align="center"  width="90"  height="90">
+            <img src="images/sanity.svg" alt="HTML5" width="44" height="44"/>
+            <br>Sanity
+        </td>
+    </tr>
+</table>
+
+### Additional Languages & Tools:
+<table>
+    <tr align="center">
+        <td align="center"  width="90"  height="90">
+            <img src="images/dart.svg" alt="HTML5" width="44" height="44"/>
+            <br>Dart
+        </td>
+        <td align="center"  width="90"  height="90">
+            <img src="images/python.svg" alt="HTML5" width="44" height="44"/>
+            <br>Python
+        </td>
+    </tr>
+</table>
+
+### Build & Infrastructure:
+<table>
+    <tr align="center">
+        <td align="center"  width="90"  height="90">
+            <img src="images/webpack.svg" alt="HTML5" width="44" height="44"/>
+            <br>Webpack
+        </td>
+        <td align="center"  width="90"  height="90">
+            <img src="images/babel.svg" alt="HTML5" width="44" height="44"/>
+            <br>Babel
+        </td>
+        <td align="center"  width="90"  height="90">
+            <img src="images/digitalocean.svg" alt="HTML5" width="44" height="44"/>
+            <br>DigitalOcean
+        </td>    
+        <td align="center"  width="90"  height="90">
+            <img src="images/cicd.svg" alt="HTML5" width="44" height="44"/>
+            <br>CI/CD
+        </td>
+    </tr>
+</table>
+
+### Build & Infrastructure:
+<table>
+    <tr align="center">
+        <td align="center"  width="90"  height="90">
+            <img src="images/jest.svg" alt="HTML5" width="44" height="44"/>
+            <br>Jest
+        </td>
+        <td align="center"  width="90"  height="90">
+            <img src="images/lint.svg" alt="HTML5" width="44" height="44"/>
+            <br>Eslint
+        </td>
+        <td align="center"  width="90"  height="90">
+            <img src="images/selenium.svg" alt="HTML5" width="44" height="44"/>
+            <br>Selenium
+        </td>
+    </tr>
+</table>
+
+### Development Tools:
+<table>
+    <tr align="center">
+        <td align="center"  width="90"  height="90">
+            <img src="images/git.svg" alt="HTML5" width="44" height="44"/>
+            <br>Git
+        </td>
+        <td align="center"  width="90"  height="90">
+            <img src="images/postman.svg" alt="HTML5" width="44" height="44"/>
+            <br>Postman
+        </td>
+        <td align="center"  width="90"  height="90">
+            <img src="images/yarn.svg" alt="HTML5" width="44" height="44"/>
+            <br>Yarn
+        </td>
+        <td align="center"  width="90"  height="90">
+            <img src="images/brew.svg" alt="HTML5" width="44" height="44"/>
+            <br>Brew
+        </td>
+        <td align="center"  width="90"  height="90">
+            <img src="images/xcode.svg" alt="HTML5" width="44" height="44"/>
+            <br>Xcode
+        </td>
+        <td align="center"  width="90"  height="90">
+            <img src="images/intell.svg" alt="HTML5" width="44" height="44"/>
+            <br>IntelliJ
+        </td> 
+        <td align="center"  width="90"  height="90">
+            <img src="images/android.svg" alt="HTML5" width="44" height="44"/>
+            <br>Android
+        </td>
+        <td align="center"  width="90"  height="90">
+            <img src="images/webstorm.svg" alt="HTML5" width="44" height="44"/>
+            <br>Webstorm
+        </td>   
+    </tr>
+</table>
+
+### State Management:
+<table>
+    <tr align="center">
+        <td align="center"  width="90"  height="90">
+            <img src="images/redux.svg" alt="HTML5" width="44" height="44"/>
+            <br>Redux
+        </td>
+        <td align="center"  width="90"  height="90">
+            <img src="images/mobx.svg" alt="HTML5" width="44" height="44"/>
+            <br>Mobx
+        </td>        
+        <td align="center"  width="90"  height="90">
+            <img src="images/zustand.svg" alt="HTML5" width="44" height="44"/>
+            <br>Zustand
+        </td>
+    </tr>
+</table>
+
+### Design & Prototyping:
+<table>
+    <tr align="center">
+        <td align="center"  width="90"  height="90">
+            <img src="images/figma.svg" alt="HTML5" width="44" height="44"/>
+            <br>Figma
+        </td>
+        <td align="center"  width="90"  height="90">
+            <img src="images/sketch.svg" alt="HTML5" width="44" height="44"/>
+            <br>Sketch
+        </td>
+    </tr>
+</table>
 
 ### GitHub Stats:
 - **Version Control:** GitHub (personal), GitLab/Bitbucket (work)
